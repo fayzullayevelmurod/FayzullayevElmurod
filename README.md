@@ -6,11 +6,11 @@ I'm a software engineer specializing in building high-end front-end and back-end
 
 I am always open to collaboration on projects and innovative ideas. Learn more about me and contact me here:
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 [![Telegram Badge](https://img.shields.io/badge/@ElmurodFayzullayev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ElmurodFayzullayev)](https://t.me/ElmurodFayzullayev) 
 [![Discord]](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![Google meet]](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) -->
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
