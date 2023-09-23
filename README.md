@@ -48,6 +48,3 @@ I am always open to collaboration on projects and innovative ideas. Learn more a
 ![Image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FayzullayevElmurod&show_icons=true&theme=gotham" alt="FayzullayevElmurod" />
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FayzullayevElmurod&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="FayzullayevElmurod" /></a> </p>
